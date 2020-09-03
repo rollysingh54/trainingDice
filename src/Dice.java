@@ -37,6 +37,7 @@ public class Dice {
 			 }
 		default:
 			System.out.println("Choose the stated number of faces for dice rolling !!!");
+                        System.out.println("Game Over !!!");
 			break;
 		 }
 		 
